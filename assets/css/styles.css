@@ -1,0 +1,102 @@
+.bg-banner{
+    background-color: #28a745;
+    width: 1280px;
+    height: 60px;
+    max-width: 100%;
+}
+
+.imagen-navbar{
+    width: 120px;
+}
+
+.texto-navbar .navbar-nav .nav-link.active[href="#"] {
+    font-family: "Roboto";
+    color: white;
+}
+
+.nav-link{
+color: #bbc0c7;
+font-family: "Roboto";
+}
+
+
+.nav-link.disabled{
+color: #bbc0c7;
+font-family: "Roboto";
+}
+
+.cards-group{
+
+max-width: 100%;
+
+}
+
+.card-tittle{
+    font-family: "Roboto";
+    font-weight:900;
+}
+
+.card{
+    font-family: "Roboto";
+    
+}
+
+.card-footer{
+    background-color: transparent;
+}
+
+.text-body-secondary{
+color: #28a745;
+font-size: medium;
+font-weight: bold;
+
+}
+
+.text-body-primary{
+    color: #707070;
+    font-size: small;
+    padding-right: 1rem;
+}
+
+.card-text{
+    color: #707070;
+    font-size: small;
+}
+
+.container-2{
+    background-color: #28a745;
+    font-family: "Roboto";
+    font-weight:normal;
+    color: white;
+    width: 1280px;
+    max-width: 100%;
+}
+
+.btn.btn-primary{
+background: #F8F9FA;
+border-color:#F8F9FA;
+color: black;
+font-family: "Roboto";
+font-size: light;
+
+}
+
+.titulo-formulario{
+    font-size: medium;
+    color: #F8F9FA;
+}
+
+.form-control{
+width: 1200px;
+margin: 0;
+max-width: 100%;
+}
+
+.img-footer{
+    width: 120px;
+}
+
+
+.visita{
+color: #707070;
+}
